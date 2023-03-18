@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aram</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 🔭 I’m currently working on [E-commerce website([https://github.com/Aram-Idrees/E-Commerce-Website])]
+- 🔭 I’m currently working on [E-commerce website](https://github.com/Aram-Idrees/E-Commerce-Website)
 
 - 🌱 I’m currently learning **Dart**
 
