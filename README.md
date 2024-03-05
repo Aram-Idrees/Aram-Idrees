@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aram</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 🔭 I’m currently working on [West Vet Hospital](https://westvethospital.com/)
+- 🔭 I’m currently working on [West Vet](https://westvethospital.com/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **aramidrees01@gmail.com**
 
